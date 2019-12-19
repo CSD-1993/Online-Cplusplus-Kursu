@@ -22,7 +22,7 @@
 Bu kursta `C++` dilinin `C` dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede `C` bilmeniz gerekmektedir. Programa uygun olup olmadığınız konusunda şüpheleriniz varsa `Necati Ergin` ile görüşebilirsiniz.
 
 ### Eğitim Süresi
-Programın toplam süresi `172` saattir. 
+Programın toplam süresi `162` saattir. 
 
 ### Ders Günleri ve Saatleri
 Dersler hafta içi `Pazartesi – Çarşamba - Cuma` günleri saat `19.30 – 22.30` saatleri arasında `3’er saat` olarak yapılacaktır.
@@ -59,7 +59,7 @@ Kurs eğitmeni `Necati Ergin`, 1995 yılından bu yana `C ve Sistem Programcıla
 `C++` kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile `github` üzerinden paylaşılmaktadır.
 
 ### Eğitim Ücreti
-Programın toplam ücreti `KDV dahil 2.800 TL`‘dir. Katılımcılar, eğitim programı ücretini dilerlerse 2 taksitte ödeyebilirler.
+Programın toplam ücreti `KDV dahil 3.000 TL`‘dir. Öğrenci olanlara `(öğrencilik durumunu belgelemeleri kaydıyla)` % 10 indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse 2 taksitte ödeyebilirler.
 
 ### Eğitim Programına Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/uJYqceuprzoqx8faflIwnLP6S1K3TR9FXQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.

@@ -2,4 +2,4 @@
 
 + Kursun Genel Tanıtımı
 + Kurs Programı
-+ Sık Sorulan Sorular
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/edit/master/sss.md)

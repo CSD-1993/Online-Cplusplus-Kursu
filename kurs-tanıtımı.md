@@ -36,7 +36,7 @@ Dersler hafta içi `Pazartesi – Çarşamba - Cuma` günleri saat `19.30 – 22
 
 
 ### Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/15_Ocak_2020_Cpp_Kursu/blob/master/kurs_programi.md)
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
 
 ### Eğitmen
 Kurs eğitmeni `Necati Ergin`, 1995 yılından bu yana `C ve Sistem Programcıları Derneği`’nde eğitmen olarak görev yapmaktadır. `C ve C++` dillerinde aktif olarak uygulamalar geliştiren `Necati Ergin`, 100’ün üstünde şirket ve kuruma `C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları` konularında eğitim vermiştir. 

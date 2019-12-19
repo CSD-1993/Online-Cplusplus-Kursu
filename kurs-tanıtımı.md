@@ -65,4 +65,4 @@ Programın toplam ücreti `KDV dahil 2.800 TL`‘dir. Katılımcılar, eğitim p
 [Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/uJYqceuprzoqx8faflIwnLP6S1K3TR9FXQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ### Sık Sorulan Sorular
-`C++ Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/necatiergin/15_Ocak_2020_Cpp_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
+`C++ Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)

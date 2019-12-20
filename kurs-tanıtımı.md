@@ -1,6 +1,6 @@
 # Online C++ Kursu
 
-+ Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) işbirliği ile düzenlenmektedir. 
++ Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) trafından `Plepa Eğitim Hizmetleri` ile işbirliği ile düzenlenmektedir. 
 
 + Bu kurs katılımcıların öncelikle `C++` programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 

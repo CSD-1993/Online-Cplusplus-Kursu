@@ -34,13 +34,14 @@
   + daraltıcı dönüşümler `(narrowing conversions)`
   + `most vexing parse`
 + doğrudan ilk değer verme `(direct intialization)`
++ değerle başlatma `value initialization`
 + kopyalama ile ilk değer verme `(copy initialization)`
 + varsayılan ilk değer verme `(default initialization)`
 + bileşiklere ilk değer verme `(aggregate initialization)`
 
 ## Tür Çıkarımı `(Type Deduction)`
 + auto belirteci ile tür çıkarımı `(auto type deduction)`
-+ decltype belirteci ile tür çıkarımı
++ decltype belirteci ile tür çıkarımı `(decltype type deduction)`
 + sonradan gelen geri dönüş türü `(trailing  return type)`
 + auto geri dönüş değeri türü `(auto return type)`
 
@@ -96,7 +97,6 @@ sınıflar ve isim arama `(name lookup)`
     + const üye işlevler
     + static üye işlevler
   + sınıfların tür öğeleri `(type members)`
-
 + sınıfların kurucu işlevleri `(constructors)`
   + kurucu işlev ilk değer verme listesi `(constructor initializer list)`
   + delege eden kurucu işlevler `(delegating constructors)`
@@ -108,9 +108,9 @@ sınıflar ve isim arama `(name lookup)`
   + const üye fonksiyonlar `(const member fuctions)`
 + geçici sınıf nesneleri `(temporary objects)`
 + otomatik tür dönüşümleri `(implicit type conversions)` 
-
 + mutable anahtar sözcüğü
 + friend bildirimi `(friend declarations)` 
+  + friend bildirimi ve veri gizleme
   + global işlevlere friend bildirimi
   + sınıfların üye işlevlerine friend bildirimi
   + sınıflara friend bildirimi
@@ -287,7 +287,7 @@ sınıflar ve isim arama `(name lookup)`
 + kurucu işlev ile tür çıkarımı `(CTAD)`
 + üye şablonlar `(member templates)`
 + şablonların özelleştirilmesi `(template specialization)`
-  + tam özelleştirme `(full specialization)`
+  + tam özelleştirme `(explicit/full specialization)`
   + kısmi özelleştirme `(partial specialization)`
 + `sfinae`
 + değişken sayıda parametreli şablonlar `(variadic templates)`

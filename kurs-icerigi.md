@@ -78,7 +78,7 @@
 + static_cast<> operatörü
 + const_cast<> operatörü
 + reinterpret_cast<> operatörü
-+ dynamic_cast<> operatörü
++ dynamic_cast<> operatörü `(kalıtım başlığı altında)`
 
 ## Sınıflara giriş
 + sınıf kapsamı `(class scope)`
@@ -118,21 +118,20 @@ sınıflar ve isim arama `(name lookup)`
 
 ## Sınıfların Özel Üye İşlevleri ve Kopyalama İşlemleri `Special Member Functions & Copy Control)`
 + sınıfların özel işlevleri
-  + default constructor
-  + destructor
-  + copy constructor
-  + move constructor
-  + copy assignment
-  + move assignment
+  + default constructor `(varsayılan kurucu işlev)`
+  + destructor `(sonlandırıcı işlev)`
+  + copy constructor `(kopyalayan kurucu işlev)`
+  + move constructor `(taşıyan kurucu işlev)`
+  + copy assignment `(kopyalayan atama işlevi)`
+  + move assignment `(taşıyan atama işlevi)`
 + özel işlevlerin default edilmesi
 + özel işlevlerin delete edilmesi
 + sınıflar ve taşıma semantiği `(move semantics)`
 + `rule of zero`
 + `rule of five`
 + kopyala takas et idiyomu `(copy & swap idiom)`
-+ kopyalamanın eliminasyonu `(copy elimination)`
-
-
++ kopyalamanın eliminasyonu `(copy elision)`
+  + zorunlu kopyalama eliminasyonu `(mandatory copy elision)`
 ## Operatör Yüklemesi `(Operator Overloading)`
 + operatör yüklemesine ilişkin genel kurallar
 + üye operatör fonksiyonları
@@ -258,11 +257,14 @@ sınıflar ve isim arama `(name lookup)`
 
 ## std::string sınıfı
 + genel kavramlar
++ string::size_type
++ string::npos
 + arama işlevleri
 + set işlemleri
 + erişim işlemleri
 + karşılaştırma işlevleri
 + sayısal dönüşüm işlevleri
++ small string optimization
 
 ## Bileşik Nesneler `(composition)`
 + öğe olan nesneler ve özel işlevler, kopyalama kontrolü.

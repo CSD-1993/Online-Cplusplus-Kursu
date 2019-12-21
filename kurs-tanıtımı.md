@@ -19,7 +19,7 @@
 + Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara `(Data structures & algorithms)` ilişkin temel kavramlar da anlatılmaktadır.
 
 ## Ön Koşul
-Bu kursta `C++` dilinin `C` dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede `C` bilmeniz gerekmektedir. Programa uygun olup olmadığınız konusunda şüpheleriniz varsa `Necati Ergin` ile görüşebilirsiniz.
+Bu kursta `C++` dilinin `C` dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede `C` bilmeniz gerekmektedir. Programa uygun olup olmadığınız konusunda şüpheleriniz varsa [`Necati Ergin`](https://www.linkedin.com/in/necati-ergin-045768176/) ile görüşebilirsiniz.
 
 ## Eğitim Süresi
 Programın toplam süresi `162` saattir. 

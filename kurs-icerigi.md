@@ -143,7 +143,8 @@ sınıflar ve isim arama `(name lookup)`
 + ok operatörü ve içerik operatörlerinin yüklenmesi
 + [] operatörünün yüklenmesi
 + fonksiyon çağrı operatörünün yüklenmesi
-+ tür dönüştürme operatör fonksiyonlarının yüklenmesi
++ tür dönüştürme operatör fonksiyonları `(type-cast operator functions)`
++ programcının tanımladığı sabitler `(user-defined literals)`
 
 ## Dinamik Ömürlü Nesneler `(Dynamic Objects)`
 + new ve delete ifadeleri `(new & delete expressions)` 

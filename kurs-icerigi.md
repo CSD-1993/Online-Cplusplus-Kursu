@@ -96,6 +96,7 @@ sınıflar ve isim arama `(name lookup)`
     + non-static üye işlevler
     + const üye işlevler
     + static üye işlevler
+  + this göstericisi ve \*this
   + sınıfların tür öğeleri `(type members)`
 + sınıfların kurucu işlevleri `(constructors)`
   + kurucu işlev ilk değer verme listesi `(constructor initializer list)`

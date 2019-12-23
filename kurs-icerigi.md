@@ -304,6 +304,11 @@ sınıflar ve isim arama `(name lookup)`
 ## İteratörler `(iterators)`
 + aralık kavramı `(ranges)`
 + iteratörlerin kategorileri `(iterator categories)`
+  + input iterator
+  + output iterator
+  + forward iterator
+  + bidirectional iterator
+  random access iterator
 + kapların begin ve end işlevleri
 + global begin ve end işlevleri
 + iterator işlevleri
@@ -314,15 +319,17 @@ sınıflar ve isim arama `(name lookup)`
   + std::distance
 + iterator uyumlandırıcıları `(iterator adaptors)`
   + akım iteratörleri `(stream iterators)`
-  + istream_iterator
-  + ostream_iterator
-  + istreambuf_iterator
-  + ostreambuf_iterator
-  + reverse_iterators
-  + move_iterator
-  + insert_iterator
-  + back_insert_iterator
-  + front_insert_iterator
+    + istream_iterator
+    + ostream_iterator
+    + istreambuf_iterator
+    + ostreambuf_iterator
+  + reverse iterators
+  + move iterators
+  + insert iterators
+    + back_insert_iterator
+    + front_insert_iterator
+    + insert_iterator
++ iterator traits
 
 ## Kaplar`(Containers)`
 + STL kapları ve veri yapıları `(STL containers & data structures) `

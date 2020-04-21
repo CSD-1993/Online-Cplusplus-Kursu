@@ -1,7 +1,7 @@
 ## Online C++ Kursu
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) ve _Plepa Eğitim Hizmetleri_ işbirliği ile düzenlenmektedir.
-+ Kurs `09 Haziran 2020 tarihinde` başlayacaktır.
++ Kurs _09 Haziran 2020 tarihinde_ başlayacaktır.
 + Dersler _Pazartesi, Çarşamba ve Cuma_ günleri saat _19.30-22.30_ arasında yapılacaktır.
 + Kursun toplam süresi _162_ saattir.
 + Kurs eğitmeni _Necati Ergin_'dir.

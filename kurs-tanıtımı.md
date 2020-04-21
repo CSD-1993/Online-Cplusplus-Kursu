@@ -2,11 +2,11 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) tarafından düzenlenmektedir. 
 
-+ Bu kurs katılımcıların öncelikle `C++` programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
++ Bu kurs katılımcıların öncelikle _C++_ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
-+ `C++` programlama dilinin temel sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
++ _C++_ programlama dilinin temel sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
-+ Kursta `Modern C++` anlatılmaktadır. `C++11`, `C++14` ve `C++17` standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır.
++ Kursta _Modern C++_ anlatılmaktadır. _C++11_, _C++14_ ve _C++17_ standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır.
 
 + C++ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan `STL (Standard Template Library)` ayrıntılı bir şekilde ele alınmaktadır.
 
@@ -14,7 +14,7 @@
 
 + Türden Bağımsız Programlama `(Generic Programming)` konusunda temel bilgiler verilmektedir.
 
-+ Eğitim programı yalnızca `C++` dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır. 
++ Eğitim programı yalnızca _C++_ dilini öğretmeyi değil, tüm programlama ortamları için iyi, temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır. 
 
 + Bazı derslerde konuların daha iyi anlaşılmasını sağlamak için veri yapılarına ve algoritmalara `(Data structures & algorithms)` ilişkin temel kavramlar da anlatılmaktadır.
 
@@ -28,11 +28,15 @@ Programın toplam süresi `162` saattir.
 Dersler hafta içi `Pazartesi – Çarşamba - Cuma` günleri saat `19.30 – 22.30` saatleri arasında `3’er saat` olarak yapılacaktır.
 
 
-+ 19.30 – 20.50        1. ders
++ 19.30 – 20.30        1. ders
 
-+ 20.50 – 21.10        ara
++ 20.30 – 20.40        1. ara
 
-+ 21.10 – 22.00        2. ders
++ 20.40 – 21.30        2. ders
+
++ 21.30 – 21.40        2. ara
+
++ 20.40 – 22.30        3. ders
 
 
 ## Eğitim İçeriği
@@ -56,13 +60,13 @@ Kurs eğitmeni `Necati Ergin`, 1995 yılından bu yana `C ve Sistem Programcıla
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-`C++` kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile `github` üzerinden paylaşılmaktadır.
+_C++_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile `github` üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti `KDV dahil 3.000 TL`‘dir. Öğrenci olanlara `(öğrencilik durumunu belgelemeleri kaydıyla)` % 10 indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse 2 taksitte ödeyebilirler.
+Programın toplam ücreti `KDV hariç 3.000 TL`‘dir. Öğrenci olanlara `(öğrencilik durumunu belgelemeleri kaydıyla)` % 10 indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse 2 taksitte ödeyebilirler.
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/uJYqceuprzoqx8faflIwnLP6S1K3TR9FXQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZUof--urDkqGdYPlb3Y8RyxFxMUpBxuiGna). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
 `C++ Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)

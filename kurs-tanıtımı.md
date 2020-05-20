@@ -63,7 +63,7 @@ Kurs eğitmeni `Necati Ergin`, 1995 yılından bu yana `C ve Sistem Programcıla
 _C++_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile `github` üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti `KDV hariç 3.000 TL`‘dir. Öğrenci olanlara `(öğrencilik durumunu belgelemeleri kaydıyla)` % 10 indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse 2 taksitte ödeyebilirler.
+Programın toplam ücreti `KDV dahil 3.400 TL`‘dir. Öğrenci olanlara `(öğrencilik durumunu belgelemeleri kaydıyla)` % 10 indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse 2 taksitte ödeyebilirler.
 
 ## Eğitim Programına Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZUof--urDkqGdYPlb3Y8RyxFxMUpBxuiGna). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.

@@ -4,6 +4,7 @@
 + Kurs _09 Haziran 2020 tarihinde_ başlayacaktır.
 + Dersler _Pazartesi, Çarşamba ve Cuma_ günleri saat _19.30-22.30_ arasında yapılacaktır.
 + Kursun toplam süresi _162_ saattir.
++ Programın toplam ücreti _KDV dahil 3.400 TL_'dir. Öğrenci olanlara (öğrencilik durumunu belgelemeleri kaydıyla) _% 10_ indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse 2 taksitte ödeyebilirler.
 + Kurs eğitmeni _Necati Ergin_'dir.
 
 ## Kursla ilgili bağlantılar:

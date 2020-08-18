@@ -1,6 +1,6 @@
-# Online C++ Programlama Kursu – Sık Sorulan Sorular
+# Online C++ Programlama Dili Kursu – Sık Sorulan Sorular
 
-Aşağıda `Necati Ergin` tarafından verilen `Online C++ Programlama Dili Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda __Necati Ergin__ tarafından verilen __Online C++ Programlama Dili Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. Çok uzun süredir bu konuda eğitim veren bir eğitmen olarak online kursun bir dezavantaj oluşturmadığını görüyorum. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
@@ -9,13 +9,13 @@ Hayır. Çok uzun süredir bu konuda eğitim veren bir eğitmen olarak online ku
 Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar kullanmanızı öneririm. İnternet bağlantısı olan herhangi bir yerden derslere katılabilirsiniz.
 
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
-Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo` üzerinden izleyebilirsiniz.
+Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile __Vimeo__ üzerinden izleyebilirsiniz.
 
-### 162 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında `162` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar `120` saatlik `İleri C++ Eğitimi` kursuna katılmaya aday olurlar.
+### 160 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __162__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar __120__ saatlik __İleri C++__ kursuna katılmaya aday olurlar.
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
-Tabi ki. `Online C++ Dili online` kursunun katılımcıları arasında yurt dışında çalışan ya da okuyan çok sayıda kişi bulunmakta.
+Tabi ki. __Online C++ Dili__ kursunun katılımcıları arasında yurt dışında çalışan ya da okuyan çok sayıda kişi bulunmakta.
 
 ### Dersler daha erken bir saatte yapılamaz mı?
 Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Derslerin daha erken bir saatte yapılması çalışan kişiler için uygun olmayabiliyor. Ders saatleri sizin için uygun değilse hafta sonu kurslarına katılabilirsiniz.
@@ -29,10 +29,10 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 
 + Anlamadığınız noktaları eğitmene sormalısınız.
 
-+ `C++` karmaşık, büyük ve zor bir programlama dili. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
++ __C++__ karmaşık, büyük ve zor bir programlama dili. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 
 ### Kursta Modern C++ mı öğretiliyor?
-Evet. `C++` Dili `C++11` standartları ile başlayan hızlı ve kapsamlı bir dönüşüm geçirdi. `C++14` ve `C++17` standartları ile de dile önemli eklemeler yapıldı. Dilin standart kütüphanesine de çok önemli bileşenler eklendi. Kursta `C++11`, `C++14` ve `C++17` standartları ile gelen araçlar ayrıntılı olarak tanıtılıyor. `C++20` standartlarına değiniliyor.
+Evet. __C++__ Dili __C++11__ standartları ile başlayan hızlı ve kapsamlı bir dönüşüm geçirdi. __C++14__ ve __C++17__ standartları ile de dile önemli eklemeler yapıldı. Dilin standart kütüphanesine de çok önemli bileşenler eklendi. Kursta __C++11__, __C++14__ ve __C++17__ standartları ile gelen araçlar ayrıntılı olarak tanıtılıyor. __C++20__ standartlarına değiniliyor.
 
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
@@ -47,7 +47,7 @@ Okulunuzdaki dersi geçmek için profesyonel düzeyde bir eğitim almanız iyi b
 Hayır. Okulda öğretmenlerinizin verdiği ödev ve projeleri kendiniz yapmalısınız.
 
 ### Derslerde hangi IDE’yi ya da derleyiciyi kullanıyorsunuz?
-Derslerde `Visual Studio IDE`‘sini kullanıyorum. Bunun nedeni bu `IDE`'de eğitmenin ve dersi izleyenlerin işini kolaylaştıran eğitim kalitesini arttıran ve zaman kazandıran bazı araçların bulunuyor olması. Ancak bazı derslerde `Unix/Linux` kökenli işletim sistemlerinde kullanılan araçları da tanıtıyorum.
+Derslerde __Visual Studio IDE__'sini kullanıyorum. Bunun nedeni bu `IDE`'de eğitmenin ve dersi izleyenlerin işini kolaylaştıran eğitim kalitesini arttıran ve zaman kazandıran bazı araçların bulunuyor olması. Ancak bazı derslerde `Unix/Linux` kökenli işletim sistemlerinde kullanılan araçları da tanıtıyorum.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
-Evet. Bu kurs sonunda kursa katılanlara `C ve Sistem Programcıları Derneği` tarafından düzenlenen bitirme sertifikası verilecektir.
+Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.

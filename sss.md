@@ -12,7 +12,7 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile __Vimeo__ üzerinden izleyebilirsiniz.
 
 ### 160 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __162__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar __120__ saatlik __İleri C++__ kursuna katılmaya aday olurlar.
+Eğitim içeriği göz önüne alındığında __160__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar __120__ saatlik __İleri C++__ kursuna katılmaya aday olurlar.
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. __Online C++ Dili__ kursunun katılımcıları arasında yurt dışında çalışan ya da okuyan çok sayıda kişi bulunmakta.
@@ -23,7 +23,7 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 ### Kurstan yüksek verim almam için neler önerirsiniz?
 + Kurs programını düzenli olarak takip etmeli, devamsızlıktan kaçınmalısınız. Zorunlu nedenlerden derslere katılamadığınız durumlarda kaçırdığınız dersleri mutlaka telafi etmelisiniz.
 
-+ Katıldığınız her dersi mutlaka tekrar etmelisiniz. Ders dışında `C++` diline ve kodlamaya mutlaka zaman ayırmalısınız. Derste yazılan kodları gözden geçirmeli, onları kendiniz de yazmaya çalışmalısınız.
++ Katıldığınız her dersi mutlaka tekrar etmelisiniz. Ders dışında __C++__ diline ve kodlamaya mutlaka zaman ayırmalısınız. Derste yazılan kodları gözden geçirmeli, onları kendiniz de yazmaya çalışmalısınız.
 
 + Verilen ödevleri yapmaya çalışmalısınız.
 
@@ -47,7 +47,7 @@ Okulunuzdaki dersi geçmek için profesyonel düzeyde bir eğitim almanız iyi b
 Hayır. Okulda öğretmenlerinizin verdiği ödev ve projeleri kendiniz yapmalısınız.
 
 ### Derslerde hangi IDE’yi ya da derleyiciyi kullanıyorsunuz?
-Derslerde __Visual Studio IDE__'sini kullanıyorum. Bunun nedeni bu `IDE`'de eğitmenin ve dersi izleyenlerin işini kolaylaştıran eğitim kalitesini arttıran ve zaman kazandıran bazı araçların bulunuyor olması. Ancak bazı derslerde `Unix/Linux` kökenli işletim sistemlerinde kullanılan araçları da tanıtıyorum.
+Derslerde __Visual Studio IDE__'sini kullanıyorum. Bunun nedeni bu _IDE_'de eğitmenin ve dersi izleyenlerin işini kolaylaştıran eğitim kalitesini arttıran ve zaman kazandıran bazı araçların bulunuyor olması. Ancak bazı derslerde _Unix/Linux_ kökenli işletim sistemlerinde kullanılan araçları da tanıtıyorum.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.

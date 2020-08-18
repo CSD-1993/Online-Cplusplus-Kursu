@@ -50,4 +50,4 @@ Hayır. Okulda öğretmenlerinizin verdiği ödev ve projeleri kendiniz yapmalı
 Derslerde __Visual Studio IDE__'sini kullanıyorum. Bunun nedeni bu _IDE_'de eğitmenin ve dersi izleyenlerin işini kolaylaştıran eğitim kalitesini arttıran ve zaman kazandıran bazı araçların bulunuyor olması. Ancak bazı derslerde _Unix/Linux_ kökenli işletim sistemlerinde kullanılan araçları da tanıtıyorum.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
-Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
+Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir. 

@@ -41,7 +41,7 @@ Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebi
 Evet. Ancak bunu önermiyorum. Daha önce aldığınız eğitimlerde ya da kişisel çalışmalarınızda temel kavramlar yerine oturmamış olabilir. Kursun yalnızca belirli derslerine katılmanız kurstan aldığınız verimi düşürebilir.
 
 ### Okulda C++ Programlama dersi alıyorum. Bu kursu almam dersi geçmemi kolaylaştırır mı?
-Okulunuzdaki dersi geçmek için profesyonel düzeyde bir eğitim almanız iyi bir fikir olmayabilir. Kurs programının amacı katılımcılara üretimde kullanabilecekleri yetkinlikte `C++` dilini öğretmektir.
+Okulunuzdaki dersi geçmek için profesyonel düzeyde bir eğitim almanız iyi bir fikir olmayabilir. Kurs programının amacı katılımcılara üretimde kullanabilecekleri yetkinlikte __C++__ dilini öğretmektir.
 
 ### Eğitimi takip ederken, bana okulda verilen ödevler ya da projeler için sizden destek alabilir miyim?
 Hayır. Okulda öğretmenlerinizin verdiği ödev ve projeleri kendiniz yapmalısınız.

@@ -2,7 +2,7 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) ve Plepa Eğitim Hizmetleri tarafından düzenlenmektedir. 
 
-+ Bu kurs katılımcıların öncelikle _C++_ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
++ Bu kurs katılımcıların öncelikle __C++__ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
 + _C++_ programlama dilinin temel sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
@@ -47,7 +47,7 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana `C ve Sistem Programcı
 `Necati Ergin`’in eğitim verdiği kurumlar arasında [Tübitak](https://www.tubitak.gov.tr/), [Havelsan](https://www.havelsan.com.tr/), [Roketsan](http://www.roketsan.com.tr/), [Koç Bilgi ve Savunma](https://www.kocsavunma.com.tr/), [Aselsan](https://www.aselsan.com.tr/tr-tr/Sayfalar/default.aspx), [Netaş](http://www.netas.com.tr/ana-sayfa/), [STM](https://www.stm.com.tr/tr), [Siemens](https://www.siemens-home.bsh-group.com/tr/), [THY Teknik](https://turkishtechnic.com/Home/TR), [Huawei](https://www.huawei.com/tr/), [Turkcell](https://www.turkcell.com.tr/), [Arçelik](https://www.arcelik.com.tr/), [Beko](https://www.beko.com.tr/), [Sunny Elektronik](https://www.sunny.com.tr/), [BSH](https://www.bsh-group.com/tr/), [Profilo](https://www.profilo.com/), [Mamur Teknoloji](http://www.mamurtech.com/), [Katron](http://katron.com.tr/), [TEB](https://www.teb.com.tr/), [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), [Türkiye İs Bankası](https://www.isbank.com.tr), [Garanti BBVA](https://www.garantibbva.com.tr/tr), [AVL Turkey](https://www.avl.com/-/avl-turkey), [Pavotek](https://pavotek.com.tr/), [Entes Elektronik](http://entes.com/tr/), [Audio Elektronik](https://www.audio.com.tr/), [İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164), [Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156), [İspark](https://ispark.istanbul/), [Hugin](http://hugin.com.tr/tr/home), [Cardtek](https://www.paycore.com/), [Triodor Software](http://triodorarge.com/), [Crytek](https://www.crytek.com/), [Erdemir](https://www.erdemir.com.tr/), [İsdemir](https://www.isdemir.com.tr/), [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/) gibi kurumlar yer almaktadır.
 
 ## Format
-+ __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -60,13 +60,13 @@ Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana `C ve Sistem Programcı
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-_C++_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile `github` üzerinden paylaşılmaktadır.
+__C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile `github` üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 Programın toplam ücreti __3.500 TL__'dir. Öğrenci olanlara __(öğrencilik durumunu belgelemeleri kaydıyla)_ __% 10__ indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse __2__ taksitte ödeyebilirler.
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZIufumqqDopG9FiVZvOJXKkhQYGvYXAPN4p). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZIufumqqDopG9FiVZvOJXKkhQYGvYXAPN4p)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-`C++ Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)
+__C++__ Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[`Necati Ergin` ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/)__ ya da ona bir __[e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)__

@@ -11,14 +11,14 @@
 + C++20
 + eski C++ ve modern C++
 
-## C Dili ve C++ İçindeki C Dili `(C in C++)`
+## C Dili ve C++ İçindeki C Dili __(C in C++)__
 + C dilinden C++ diline geçiş
 + işlev bildirimleri ve tanımlamalarına ilişkin farklılıklar
 + türlere ve tür dönüşümlerine ilişkin farklılıklar
 + C’de geçerli C++’da geçersiz durumlar
 + C99 ve C++
 
-## Temel Kavramlar `(Basic Concepts)`
+## Temel Kavramlar __(Basic Concepts)__
 + tamamlanmış ve eksik türler `(complete & incomplete types)`
 + tek tanımlama kuralı `(one definition rule)`
 + ifadelerin değer kategorileri `(value categories)`
@@ -29,7 +29,7 @@
 + erişim kontrolü `(access control)`
 + çift anlamlılık hatası `(ambiguity)`
 
-## İlk Değer Verme `(Initialization)`
+## İlk Değer Verme __(Initialization)__
 + eş biçimli ilk değer verme `(uniform initialization)`
   + daraltıcı dönüşümler `(narrowing conversions)`
   + `most vexing parse`
@@ -39,27 +39,27 @@
 + varsayılan ilk değer verme `(default initialization)`
 + bileşiklere ilk değer verme `(aggregate initialization)`
 
-## Tür Çıkarımı `(Type Deduction)`
+## Tür Çıkarımı __(Type Deduction)__
 + auto belirteci ile tür çıkarımı `(auto type deduction)`
 + decltype belirteci ile tür çıkarımı `(decltype type deduction)`
 + sonradan gelen geri dönüş türü `(trailing  return type)`
 + auto geri dönüş değeri türü `(auto return type)`
 
-## enum Sınıfları `(enum Classes)`
+## enum Sınıfları __(enum Classes)__
 + geleneksel enum türleri `(conventional enum types)`
 + baz tür seçimi `(underlying type)'
 + tür dönüşümleri `(type conversions)`
 + enum sınıfları ve kapsam `(enum classes & scope)`
 
-## Sabit İfadeleri `(Constant Expressions)`
+## Sabit İfadeleri __(Constant Expressions)__
 + const anahtar sözcüğü ve const semantiği
 + const nesneler
 + constexpr anahtar sözcüğü
 + constexpr işlevler
 
-## İşlevlerin Varsayılan Argüman Alması `(Default Arguments)`
+## İşlevlerin Varsayılan Argüman Alması __(Default Arguments)__
 
-## Referans Semantiği `(Reference Semantics)`
+## Referans Semantiği __(Reference Semantics)__
 + sol taraf referansları `(L value references)`
 + sağ taraf referansları `(R value references)`
 + referanslar ve const semantiği `(references & const semantics)`
@@ -67,7 +67,7 @@
 + parametresi referans olan işlevler
 + referans döndüren işlevler
 
-## İşlev Yüklemesi `(Function Overloading)`
+## İşlev Yüklemesi __(Function Overloading)__
 + genel kurallar
 + yüklenmiş işlev çözümlenmesi `(function overload resolution)`
 + const yüklemesi `(const overloading)`

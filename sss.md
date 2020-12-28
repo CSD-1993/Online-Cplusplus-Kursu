@@ -32,7 +32,7 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 + __C++__ karmaşık, büyük ve zor bir programlama dili. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 
 ### Kursta Modern C++ mı öğretiliyor?
-Evet. __C++__ Dili __C++11__ standartları ile başlayan hızlı ve kapsamlı bir dönüşüm geçirdi. __C++14__ ve __C++17__ standartları ile de dile önemli eklemeler yapıldı. Dilin standart kütüphanesine de çok önemli bileşenler eklendi. Kursta __C++11__, __C++14__ ve __C++17__ standartları ile gelen araçlar ayrıntılı olarak tanıtılıyor. __C++20__ standartlarına değiniliyor.
+Evet. __C++__ Dili __C++11__ standartları ile başlayan hızlı ve kapsamlı bir dönüşüm geçirdi. __C++14__ ve __C++17__ standartları ile de dile önemli eklemeler yapıldı. Dilin standart kütüphanesine de çok önemli bileşenler eklendi. Kursta __C++11__, __C++14__ ve __C++17__ standartları ile gelen araçlar ayrıntılı olarak tanıtılıyor. __C++20__ standartlarına genel olarak değiniliyor.
 
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.

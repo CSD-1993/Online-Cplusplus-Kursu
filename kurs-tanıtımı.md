@@ -57,13 +57,13 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında [Tübitak](https://www.t
 
 + Eğitim dili Türkçe’dir. Programlama ve __C++__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri kendilerine verilecek parola ile __Vimeo__ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
 __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti __3.500 TL__'dir. Öğrenci olanlara __(öğrencilik durumunu belgelemeleri kaydıyla)_ __% 10__ indirim uygulanmaktadır. Katılımcılar, eğitim programı ücretini dilerlerse __2__ taksitte ödeyebilirler.
+Programın toplam ücreti __3.600 TL__'dir. Öğrenci olanlar için kurs ücreti __3.200 TL__'dir. Katılımcılar, eğitim programı ücretini dilerlerse __2__ taksitte ödeyebilirler.
 
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZIufumqqDopG9FiVZvOJXKkhQYGvYXAPN4p)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.

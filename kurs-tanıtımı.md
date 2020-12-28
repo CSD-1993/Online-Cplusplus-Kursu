@@ -25,18 +25,18 @@ Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlat
 Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri __14.00 – 18.00__ saatleri arasında __3’er saat__ olarak yapılacaktır.
+Dersler __Cumartesi ve Pazar__ günleri __14.00 – 18.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
 
 
-+ 14.00 – 15.20        1. ders
++ 09.00 – 10.20        1. ders
 
-+ 15.20 – 15.40        1. ara
++ 10.20 – 10.40        1. ara
 
-+ 15.40 – 17.00        2. ders
++ 10.40 – 12.00        2. ders
 
-+ 17.00 – 17.10        2. ara
++ 12.00 – 12.10        2. ara
 
-+ 17.10 – 17.20        3. ders
++ 12.10 – 13.20        3. ders
 
 
 ## Eğitim İçeriği
